@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toostrng
 - 👀 I’m interested in making video games
-- 🌱 I’m currently learning c++ , c#
+- 🌱 I’m currently learning c++ , python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @toostrng (Telegram)
 
